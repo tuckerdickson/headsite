@@ -256,6 +256,7 @@ article p {
 
 .project__img {
     width: 100%;
+    filter: grayscale(100%);
 }
 
 .project__title {
